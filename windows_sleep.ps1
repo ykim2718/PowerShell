@@ -1,5 +1,5 @@
 <#
-y (copyLeft) windows_sleep.ps1
+y (copyRight) windows_sleep.ps1
 
 Version 0.0
 -----------
